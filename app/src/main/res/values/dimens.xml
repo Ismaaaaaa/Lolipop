@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="widthCardView">180dp</dimen>
+    <dimen name="heighCardView">306dp</dimen>
+    <dimen name="widthBtnComprarAct2">274dp</dimen>
+    <dimen name="heighBtnComprarAct2">60dp</dimen>
+</resources>

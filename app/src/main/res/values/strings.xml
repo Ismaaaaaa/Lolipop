@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Lolipop</string>
+    <string name="ad">AD:</string>
+    <string name="tituloBotonActionBar">+</string>
+    <string name="hintTituloAnuncioTB">Introduce el titulo del anuncio</string>
+    <string name="tv_TituloInsertar">Título</string>
+    <string name="tvEstadoInsertar">Estado</string>
+    <string name="tvPrecioInsertar">Precio</string>
+    <string name="tvAceptaEnviosInsertar">Acepta envios</string>
+    <string name="btnGuardar">Guardar</string>
+    <string name="tv_monedaInsertar">€</string>
+    <string name="tvDescripcionInsertar">Descripción</string>
+    <string name="tvLinkInsertar">Link</string>
+    <string name="tvExternoInsertar">Externo</string>
+    <string name="tvUsuario">Usuario</string>
+    <string name="hintIntroducirUsuario">Introduzca el nombre del nuevo usuario</string>
+    <string name="tvPasswordUsuario">Contraseña</string>
+    <string name="hintIntroducirPassword">Introduzca la contraseña del nuevo usuario</string>
+    <string name="tvValoracionUsuario">Valoración</string>
+    <string name="btnLog">Acceder</string>
+    <string name="alertaGalería">De donde queire sacar la imagen?</string>
+    <string name="elegirProveedor">Elija el proveedor</string>
+    <string name="galeria">Galería</string>
+    <string name="camara">Cámara</string>
+    <string name="iconoBuscar">Buscar</string>
+</resources>

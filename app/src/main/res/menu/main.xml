@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/btnBuscar"
+        android:icon="@android:drawable/ic_menu_search"
+        android:orderInCategory="1"
+        android:title="@string/iconoBuscar"
+        app:actionViewClass="android.widget.SearchView"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/btnAddUser"
+        android:icon="@mipmap/ic_account_plus"
+        android:orderInCategory="2"
+        android:title="@string/tituloBotonActionBar"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/btnLog"
+        android:icon="@mipmap/ic_account_circle"
+        android:orderInCategory="3"
+        android:title="userLog"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/itemsMenuAjustes"
+        android:title="Ajustes"
+        app:showAsAction="never"></item>
+    <item
+        android:id="@+id/itemsMenuAcercaDe"
+        android:title="Acerca de"
+        app:showAsAction="never"></item>
+</menu>

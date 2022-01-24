@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="valoresEstado">
+        <item>Nuevo</item>
+        <item>Como nuevo</item>
+        <item>En buen estado</item>
+        <item>En condiciones aceptables</item>
+        <item>Lo ha dado todo</item>
+    </string-array>
+</resources>
